@@ -1,0 +1,27 @@
+h1 {
+    color:white;
+    background-color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-size: 350%;
+}
+h2 {
+    color: white;
+    background-color: #00122D;
+    font-style: italic;
+}
+h3 {
+    color:white;
+    background-color: orange;
+    font-family: monospace;
+    font-size: 200%;
+}
+.first em {
+    color: white;
+    background-color: green;
+}
+p {
+    color: orange;
+    font-family: monospace;
+    font-size: 130%;
+}
