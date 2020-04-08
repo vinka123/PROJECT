@@ -24,10 +24,10 @@ body {
     background-color: black;
 }
 .test-box {
-    border-top:4px solid green;
-    border-bottom:4px solid orange;
-    border-right:4px solid blue;
-    border-left:4px solid violet;
+    border-top:5px solid green;
+    border-bottom:5px solid orange;
+    border-right:5px solid blue;
+    border-left:5px solid violet;
     padding:50px;
 }
 p {
